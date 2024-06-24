@@ -2,8 +2,8 @@
 
 ## Desafío de JS: FUNCIONES
 
-- [Repositorio]()
-- [Deploy]()
+- [Repositorio](https://github.com/rodolazo/js-funciones-desafio.git)
+- [Deploy](https://rodolazo.github.io/js-funciones-desafio/)
 
 ## Tecnologías utilizadas
 
